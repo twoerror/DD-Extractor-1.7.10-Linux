@@ -1,0 +1,7 @@
+**/**.java
+**/**.jar
+**/**.exe
+**/summary.txt
+
+!data
+!forge
